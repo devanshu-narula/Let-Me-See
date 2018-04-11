@@ -1,3 +1,5 @@
+
+Let Me See
 This project is aimed to help those who can not see. 
 
 1.prototype.py -> This is the script which calls the tenserflow model('ssd_mobilenet_v1_coco_11_06_2017') which has been trained for 100 class of objects. This model was trained using around 335k images. It then calls the camera of the device and for this OpenCV has been used.
